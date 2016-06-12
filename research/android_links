@@ -1,0 +1,6 @@
+### Location
+http://android-developers.blogspot.com/2011/06/deep-dive-into-location.html
+
+### Firebase Cloud Messaging  (server to app messaging to avoid periodic polling of server for updates)
+https://developer.android.com/training/performance/battery/network/action-server-traffic.html
+https://firebase.google.com/docs/cloud-messaging/
